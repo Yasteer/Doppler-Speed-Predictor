@@ -17,4 +17,6 @@ Peak frequency approximately 328Hz.
 ## Doppler Equation
 <img src="Images/Doppler_Equation.PNG" width = 400>
 
-
+* Vs = 343 m/s
+* fin = 365 Hz
+* fout = 328 Hz
