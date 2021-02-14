@@ -8,9 +8,11 @@ Program to predict car speed from audio file. Frequency analysis is performed on
 
 ### Peak Frequency -> Oncoming
 <img src="Images/Oncoming.PNG" width = 400>
+Peak frequency approximately 365Hz.
 
 ### Peak Frequency -> Outgoing
 <img src="Images/Outgoing.PNG" width = 400>
+Peak frequency approximately 328Hz.
 
 ## Doppler Equation
 <img src="Images/Doppler_Equation.PNG" width = 400>
