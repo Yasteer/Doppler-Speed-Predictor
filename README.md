@@ -20,3 +20,6 @@ Peak frequency approximately 328Hz.
 * Vs = 343 m/s
 * fin = 365 Hz
 * fout = 328 Hz
+
+### Frequency Ratio
+<img src="Images/Frequency_Ratio.PNG" width = 400>
