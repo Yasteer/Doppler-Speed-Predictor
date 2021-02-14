@@ -6,6 +6,6 @@ Program to predict car speed from audio file. Frequency analysis is performed on
 <img src="Images/Audio_Sample.png" width = 500> 
 
 ## Doppler Equation
-<img src="Images/Doppler_Equation.png" width = 500>
+<img src="Images/Doppler_Equation.PNG" width = 500>
 
 
