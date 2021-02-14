@@ -4,13 +4,13 @@ Program to predict car speed from audio file. Frequency analysis is performed on
 
 ## Audio Samples
 ### Original Audio
-<img src="Images/Audio_Sample.png" width = 400> 
+<img src="Images/Audio_Sample.PNG" width = 400> 
 
 ### Peak Frequency -> Oncoming
-<img src="Images/Oncoming_Frequency.png" width = 400>
+<img src="Images/Oncoming_Frequency.PNG" width = 400>
 
 ### Peak Frequency -> Outgoing
-<img src="Images/Outgoing_Frequency.png" width = 400>
+<img src="Images/Outgoing_Frequency.PNG" width = 400>
 
 ## Doppler Equation
 <img src="Images/Doppler_Equation.PNG" width = 400>
